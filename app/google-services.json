@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "333726429289",
+    "firebase_url": "https://kopi-8bc10.firebaseio.com",
+    "project_id": "kopi-8bc10",
+    "storage_bucket": "kopi-8bc10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333726429289:android:ffdc9b529e3148eadff2f8",
+        "android_client_info": {
+          "package_name": "com.example.kopi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333726429289-9qnq3tjphdnbmenptpkk6clu7aou2l3v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kopi",
+            "certificate_hash": "8573d10efb9c53c4f1368948f84a51a29de3c7db"
+          }
+        },
+        {
+          "client_id": "333726429289-hqv3f22lf6a3h1s5cbbcf55pn9573a3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC8P1gcnKF-XYU1THOf-xVBi9sQ9HS7nU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333726429289-hqv3f22lf6a3h1s5cbbcf55pn9573a3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
